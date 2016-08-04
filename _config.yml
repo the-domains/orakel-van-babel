@@ -1,4 +1,3 @@
-layout_spectrum: 0.3295167167671025
 typography_spectrum: 0.2968292518053204
 color:
   brandStrength: 0.9215602637268603
@@ -11,5 +10,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.3295167167671025
 name: Orakel van Babel
+title: Het orakel van Babel
 description: Rationalisatie komt altijd achteraf
