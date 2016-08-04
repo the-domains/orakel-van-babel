@@ -6,9 +6,10 @@ color:
   saturation: 0.9280553485732526
   rhythmicContrast: 0.02367201284505427
   brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: Orakel van Babel
+description: Rationalisatie komt altijd achteraf
