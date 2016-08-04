@@ -11,6 +11,10 @@ color:
     - '#6B574B'
     - '#160600'
 layout_spectrum: 0.3295167167671025
+author:
+  name: Rik Kleinsmit
+  email: rkleinsmit@gmail.com
+  url: 'https://nl.linkedin.com/in/rikkleinsmit'
 name: Orakel van Babel
 title: Het orakel van Babel
 description: Rationalisatie komt altijd achteraf
