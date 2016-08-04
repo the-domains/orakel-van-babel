@@ -1,0 +1,14 @@
+layout_spectrum: 0.3295167167671025
+typography_spectrum: 0.2968292518053204
+color:
+  brandStrength: 0.9215602637268603
+  lightness: 0.7104772585444152
+  saturation: 0.9280553485732526
+  rhythmicContrast: 0.02367201284505427
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Orakel van Babel
